@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #The second line of all your Bash scripts should be a comment explaining what is the script doing
 
-ssh -i ~/.ssh/school ubuntu@18.209.11.117
+ssh -i ~/.ssh/school ubuntu@54.87.227.225
