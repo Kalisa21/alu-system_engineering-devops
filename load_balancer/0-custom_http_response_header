@@ -14,4 +14,8 @@ new_config=\
 "
 sudo chown -R "$USER":"$USER" /etc/nginx/sites-available/default
 echo "$new_config" > /etc/nginx/sites-available/default
+<<<<<<< HEAD
 sudo service nginx restart
+=======
+sudo service nginx restart
+>>>>>>> 4be7ba264f223995bfcc592c9cf5feceb9766d33
